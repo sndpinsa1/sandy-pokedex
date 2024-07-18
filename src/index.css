@@ -1,0 +1,16 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: Roboto;
+}
+
+body{
+  background-color: #DEEDED;
+}
+
+.no-scroll {
+  overflow: hidden;
+}

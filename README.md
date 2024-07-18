@@ -19,19 +19,14 @@ Responsive design, optimized for mobile devices first.
 Fast and efficient user interface.
 
 
-## Demo
-
-
-You can check out a live demo of the project [here](https://6686884148bdb3d142407404--tubular-scone-5ba8bc.netlify.app/).
-
 ## Installation
 
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
     bash
-    git clone https://tools.publicis.sapient.com/bitbucket/scm/rb4/sandeep-saini.git
-    cd pokedex
+    git clone https://github.com/sndpinsa1/sandy-pokedex.git
+    cd sandy-pokedex
     
 
 
